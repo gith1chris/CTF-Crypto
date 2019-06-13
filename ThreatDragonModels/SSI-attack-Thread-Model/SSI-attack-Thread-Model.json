@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "SSI-attack-Thread-Model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "SSI-Attack-Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
